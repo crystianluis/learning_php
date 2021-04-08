@@ -15,13 +15,13 @@ echo $frutas[2];
 
 $nascimento = new DateTime();
 
-echo $nascimento;
+var_dump($nascimento);
 
 ///////////////////////////////////////////////
 
 $arquivo = fopen("exemplo-03.php", "r");
 
-//var_dump($arquivo);
+var_dump($arquivo);
 
 $nulo = NULL;
 $vazio = "";
