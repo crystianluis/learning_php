@@ -1,6 +1,6 @@
 <?php
 
-$nome = (int)$_GET("a");
+//$nome = (int)$_GET("a");
 
 //echo $nome;
 
