@@ -11,11 +11,11 @@ $bloqueado = false;
 
 $frutas = array("abacaxi", "laranja", "manga");
 
-//echo $frutas[2];
+echo $frutas[2];
 
-$nascimento = new DateTime();
+//$nascimento = new DateTime();
 
-var_dump($nascimento);
+//echo $nascimento;
 
 ///////////////////////////////////////////////
 
