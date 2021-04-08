@@ -15,7 +15,7 @@ $frutas = array("abacaxi", "laranja", "manga");
 
 $nascimento = new DateTime();
 
-//var_dump($nascimento);
+var_dump($nascimento);
 
 ///////////////////////////////////////////////
 
