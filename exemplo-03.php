@@ -13,13 +13,13 @@ $frutas = array("abacaxi", "laranja", "manga");
 
 echo $frutas[2];
 
-//$nascimento = new DateTime();
+$nascimento = new DateTime();
 
-//echo $nascimento;
+echo $nascimento;
 
 ///////////////////////////////////////////////
 
-$arquivo = fopen("exemplo-03.php", "r")
+$arquivo = fopen("exemplo-03.php", "r");
 
 //var_dump($arquivo);
 
