@@ -1,6 +1,6 @@
 <?php
 
-$suaIdade = 30;
+$suaIdade = 16;
 $idadeCrianca = 12;
 $idadeMaior = 18;
 $idadeIdoso = 65;
