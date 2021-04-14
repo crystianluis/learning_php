@@ -9,6 +9,9 @@ define("BANCO_DE_DADOS", [
 ]);
 
 echo SERVIDOR . "<br>";
+echo PHP_VERSION . "<br>";
+echo DIRECTORY_SEPARATOR . "<br>";
 print_r(BANCO_DE_DADOS);
+
 
 ?>
