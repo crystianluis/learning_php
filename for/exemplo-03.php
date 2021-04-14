@@ -1,5 +1,3 @@
-<?php
-
 <form>
 
     <input type="text" name="name">
@@ -7,6 +5,8 @@
     <input type="submit" value="OK">
 
 </form>
+
+<?php
 
 if (isset($_GET)) {
 
