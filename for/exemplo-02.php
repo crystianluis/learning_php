@@ -15,8 +15,8 @@ $meses  = array(
     "Dezembro"
 );
 
-foreach ($meses as $mes) {
-    echo $mes . "<br>";
+foreach ($meses as $index => $mes) {
+    echo $index . " : " . $mes . "<br>";
 }
 
 ?>
