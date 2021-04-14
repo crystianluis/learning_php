@@ -8,7 +8,7 @@ define("BANCO_DE_DADOS", [
     'test'
 ]);
 
-echo SERVIDOR;
+echo SERVIDOR . "<br>";
 print_r(BANCO_DE_DADOS);
 
 ?>
