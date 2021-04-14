@@ -1,8 +1,8 @@
 <form>
 
-    <input type="text" name="name">
-    <input type="date" name="date">
-    <input type="submit" value="OK">
+    Name: <input type="text" name="name"><br>
+    Date: <input type="date" name="date"><br>
+    Confirm: <input type="submit" value="OK">
 
 </form>
 
