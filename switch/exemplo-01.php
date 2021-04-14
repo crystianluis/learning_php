@@ -25,6 +25,9 @@ switch ($diaSemana) {
     case 6:
         echo "Sábado";
         break;
+    default:
+        echo "Data inválida";
+        break;
 }
 
 ?>
